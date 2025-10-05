@@ -1,0 +1,1 @@
+start networking using Scapy, understanding how packets are created, fields and how to recieve and interpret packets
