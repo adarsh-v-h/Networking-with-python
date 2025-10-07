@@ -1,9 +1,0 @@
-[tool.poetry]
-name = "scapy-project"
-version = "0.1.0"
-description = "Scapy learning lab"
-authors = ["adarsh <adarshvh2005@gmail.com>"]
-
-[tool.poetry.dependencies]
-python = "^3.11"
-scapy = "^2.5"
